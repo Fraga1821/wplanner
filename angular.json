@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "wplanner"
+    }
+  },
+  "defaultProject": "wplanner",
+  "cli": {
+    "analytics": false
+  }
 }
