@@ -1,3 +1,3 @@
 # Wplanner
 
-This is weekley planner project using Angular v18.
+This is a weekly planner project using Angular v18.
